@@ -12,10 +12,10 @@
 
 ```bash
 # Default run (reads info.txt in the current directory)
-python3 cred_gen.py
+python3 cred_gen_V2.py
 
 # Specify input file and output directory
-python3 cred_gen.py -i info.example.txt -o output/
+python3 cred_gen_V2.py -i info.example.txt -o output/
 
 # Generate only users.txt and passwords.txt without comment headers
-python3 cred_gen.py -i info.txt --skip-combos --no-header
+python3 cred_gen_V2.py -i info.txt --skip-combos --no-header
