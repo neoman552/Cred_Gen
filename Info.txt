@@ -1,0 +1,6 @@
+#Separtion is ,
+Company:Test.com
+Year_of_creation:2000
+Actual_Year:Current_year
+Location:Tunisie, Tunis
+Char_Spec:#,.,!,$,%,_,+,-,;,@
